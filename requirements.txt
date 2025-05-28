@@ -9,3 +9,4 @@ python-dotenv
 Pillow
 langchain
 langchain-openai
+langchain-community
