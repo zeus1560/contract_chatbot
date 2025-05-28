@@ -1,0 +1,4 @@
+pymupdf
+streamlit
+fpdf
+python-dotenv
