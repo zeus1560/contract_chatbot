@@ -1,0 +1,12 @@
+streamlit
+openai
+PyMuPDF
+fpdf
+tqdm
+scikit-learn
+faiss-cpu
+python-dotenv
+Pillow
+langchain
+langchain-openai
+langchain-community
